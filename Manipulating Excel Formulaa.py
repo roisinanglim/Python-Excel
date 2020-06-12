@@ -2,7 +2,7 @@
 """
 Created on Tue Apr  7 11:44:29 2020
 
-@author: Shane Gore
+
 """
 
 import openpyxl
